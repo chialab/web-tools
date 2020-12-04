@@ -23,7 +23,6 @@
         "php": ">=7.2",
         "bedita/php-sdk": "^1.1.1",
         "cakephp/cakephp": "^3.8.1|4.0.*",
-        "josegonzalez/dotenv": "^3.2",
         "cakephp/authentication": "^2.1.0",
         "cakephp/twig-view": "^1.0.1"
     },
